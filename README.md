@@ -1,6 +1,7 @@
 # loan-prediction
 
-Loan prediction using various machiine learning techiques from Python's Scikit-Learn Library
+Loan prediction using various machiine learning techiques from Python's Scikit-Learn Library.
+Using the classifiers, predict whether a loan case will be paid off or not
 
 ### Load Dataset
 Load and clean historical dataset from previous loan applications
